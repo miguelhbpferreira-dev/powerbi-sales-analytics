@@ -1,0 +1,19 @@
+﻿ProductID,ProductName,Category,ListPrice,UnitCost
+P001,Headphones,Electronics,249.9,139.89
+P002,Keyboard,Electronics,19.9,11.89
+P003,Mouse,Electronics,199.9,138.03
+P004,Monitor,Electronics,119.9,74.36
+P005,Webcam,Electronics,39.9,20.16
+P006,Speaker,Electronics,119.9,66.29
+P007,Desk Lamp,Home,249.9,124.65
+P008,Office Chair,Home,49.9,35.06
+P009,Coffee Maker,Home,249.9,150.14
+P010,Vacuum,Home,199.9,143.24
+P011,Air Purifier,Home,19.9,13.0
+P012,Bookshelf,Home,69.9,37.83
+P013,Yoga Mat,Sports,199.9,95.96
+P014,Dumbbell Set,Sports,199.9,107.32
+P015,Water Bottle,Sports,89.9,41.83
+P016,Fitness Band,Sports,29.9,18.98
+P017,Backpack,Sports,119.9,65.29
+P018,Resistance Bands,Sports,19.9,12.44
