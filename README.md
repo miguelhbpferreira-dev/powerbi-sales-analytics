@@ -89,7 +89,7 @@ Additional tables support dynamic Top N selection and role-based data access.
 ## How to Run
 
 1. Clone or download this repository.
-2. Open `powerbi/Sales_Analytics_Final.pbix` in Power BI Desktop.
+2. Open `powerbi/Sales_Analytics.pbix` in Power BI Desktop.
 3. If necessary, update local CSV source paths through Power Query.
 4. Refresh the data.
 5. Explore the report pages and interactions.
